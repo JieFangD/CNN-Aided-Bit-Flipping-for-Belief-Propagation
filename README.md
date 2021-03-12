@@ -36,7 +36,7 @@ We propose a convolutional neural network-aided bit-flipping (CNN-BF) mechanism 
 
 - Analyze_Bound (progressive multi bit).ipynb: analyze the error correction capability of exhaustive BF (flipping and strengthing) as shown in Fig. 3 in [2](https://ieeexplore.ieee.org/document/9272860). Note that it is very slow...
 
-- Analyze (progressive multi bit).ipynb: analyze the error correction capability of opposite BF (only flipping) as shown in Fig. 3 in [2](https://ieeexplore.ieee.org/document/9272860)
+- Analyze (progressive multi bit).ipynb: analyze the error correction capability of opposite BF (only flipping) as shown in Fig. 3 in [2](https://ieeexplore.ieee.org/document/9272860).
 
 ## Contact Information
 
